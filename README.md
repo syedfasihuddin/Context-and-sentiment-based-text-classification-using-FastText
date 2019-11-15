@@ -24,7 +24,7 @@ For a more detailed description you may refer to this [repository](https://githu
 
 ## Contributors
 
-* [**Fasihuddin**] - *Obama tweets*
+* **Fasihuddin**  - *Obama tweets*
 * [**Abdul Sattar**](https://github.com/AsharMohammed) - *HipHop Lyrics*
 * [**Muhammad Hassaan**](https://github.com/hassan25sohail) - *Donald Trump Tweets*
 * [**Talha Islam**](https://github.com/TalhaIslam) - *Russian Troll Tweets*
