@@ -1,5 +1,6 @@
 # Context and sentiment based text classification using FastText
-Group project for ITEC876 Applications of data science
+Group project for ITEC876 Applications of data science. 
+This project consists of Context based text classification and sentiment based text classification. It is meant to determine whether FastText will be able to provide with more accurate results.
 
 ## Getting Started
 
@@ -28,3 +29,5 @@ For a more detailed description you may refer to this [repository](https://githu
 * [**Abdul Sattar**](https://github.com/AsharMohammed) - *Dataset - HipHop Lyrics*
 * [**Muhammad Hassaan**](https://github.com/hassan25sohail) - *Dataset - Donald Trump Tweets*
 * [**Talha Islam**](https://github.com/TalhaIslam) - *Dataset - Russian Troll Tweets*
+
+
