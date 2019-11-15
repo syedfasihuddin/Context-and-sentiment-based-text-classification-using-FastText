@@ -1,4 +1,4 @@
-# Multi-Label-Text-Classification-using-FastText
+# Context and sentiment based text classification using FastText
 Group project for ITEC876 Applications of data science
 
 ## Getting Started
@@ -24,7 +24,7 @@ For a more detailed description you may refer to this [repository](https://githu
 
 ## Contributors
 
-* **Fasihuddin**  - *Obama tweets*
-* [**Abdul Sattar**](https://github.com/AsharMohammed) - *HipHop Lyrics*
-* [**Muhammad Hassaan**](https://github.com/hassan25sohail) - *Donald Trump Tweets*
-* [**Talha Islam**](https://github.com/TalhaIslam) - *Russian Troll Tweets*
+* **Fasihuddin**  - *Dataset - Obama tweets*
+* [**Abdul Sattar**](https://github.com/AsharMohammed) - *Dataset - HipHop Lyrics*
+* [**Muhammad Hassaan**](https://github.com/hassan25sohail) - *Dataset - Donald Trump Tweets*
+* [**Talha Islam**](https://github.com/TalhaIslam) - *Dataset - Russian Troll Tweets*
